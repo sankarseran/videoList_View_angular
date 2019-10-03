@@ -1,0 +1,6 @@
+<h4>{{selectedChapter?.chapter.title}}</h4>
+<div  *ngIf="selectedChapter" class="video-player">
+    <video controls #videoPlayer autoplay>
+        <source [src]="selectedChapter?.chapter?.content" type="video/mp4" />
+    </video>
+</div>

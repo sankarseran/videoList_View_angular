@@ -1,0 +1,4 @@
+<mat-card class="card-container" *ngFor="let chapter of chapters" (click)="openChapter(chapter)">
+    <div class="movie-titel">{{chapter?.chapter?.title}}</div>
+    <p class="movie-overView">{{chapter?.chapter?.durationStr}}</p>
+</mat-card>

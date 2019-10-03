@@ -1,0 +1,16 @@
+.video-player-container {
+    display: flex;
+    justify-content: flex-start;
+    .player-list {
+        width: 30%;
+        padding: 16px;
+        height: 87vh;
+        overflow: auto;
+    }
+    .player-container {
+        width: 70%;
+        padding: 16px;
+        height: 87vh;
+        overflow: auto;
+    }
+}
