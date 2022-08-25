@@ -7,6 +7,7 @@ import { MatInputModule, MatIconModule, MatCardModule, MatPaginatorModule, MatPr
 // sample1
 // adding this line for testing.. sample to sample 
 // sample2
+// sankar want to change this adding this line for testing..
 // videogular
 // import { VgCoreModule } from 'videogular2/core';
 // import { VgOverlayPlayModule } from 'videogular2/overlay-play';
