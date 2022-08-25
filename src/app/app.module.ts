@@ -4,9 +4,9 @@ import { HttpClientModule } from '@angular/common/http';
 
 // material
 import { MatInputModule, MatIconModule, MatCardModule, MatPaginatorModule, MatProgressBarModule } from '@angular/material';
-// sample1 from testing 
+// sample1 sankar 
 // adding this line for testing.. sample to sample 
-// sample2 from testing
+// sample2 sankar
 // videogular
 // import { VgCoreModule } from 'videogular2/core';
 // import { VgOverlayPlayModule } from 'videogular2/overlay-play';
