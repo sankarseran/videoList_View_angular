@@ -4,7 +4,7 @@ import { HttpClientModule } from '@angular/common/http';
 
 // material
 import { MatInputModule, MatIconModule, MatCardModule, MatPaginatorModule, MatProgressBarModule } from '@angular/material';
-
+// adding this line for testing..
 // videogular
 // import { VgCoreModule } from 'videogular2/core';
 // import { VgOverlayPlayModule } from 'videogular2/overlay-play';
